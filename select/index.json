@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ギャロップ",
+  "base_artist": "pe'zmoku",
+  "createdAt": "2026-02-18T01:30:49.429095Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ギャロップ",
+      "artist": "PE'Z",
+      "has_synced": false,
+      "path": "select/01_ギャロップ_PE'Z.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ギャロップ",
+      "artist": "pe'zmoku",
+      "has_synced": true,
+      "path": "select/02_ギャロップ_pe'zmoku.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ギャロップ",
+      "artist": "pe'zmoku",
+      "has_synced": true,
+      "path": "select/03_ギャロップ_pe'zmoku.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ギャロップ",
+      "artist": "浮竹十四郎 (石川英郎), 小椿仙太郎 (遠近孝一), 虎徹清音 (西村ちなみ)",
+      "has_synced": true,
+      "path": "select/04_ギャロップ_浮竹十四郎_(石川英郎),_小椿仙太郎_(遠近孝一),_虎徹清音_(西村ちなみ).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gallop ギャロップ",
+      "artist": "pe'zmoku",
+      "has_synced": true,
+      "path": "select/05_Gallop_ギャロップ_pe'zmoku.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "14 ギャロップ",
+      "artist": "浮竹十四郎(石川英郎)＋小椿仙太",
+      "has_synced": true,
+      "path": "select/06_14_ギャロップ_浮竹十四郎(石川英郎)+小椿仙太.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ギャロップ",
+      "artist": "pe'zmoku",
+      "has_synced": false,
+      "path": "select/pl_01_ギャロップ_pe'zmoku.txt"
+    }
+  ]
+}
